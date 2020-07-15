@@ -2,7 +2,7 @@
 
 I'm a System And Server Administrator with 5+ years of professional experience where I ensure all systems have secure connections and perform smoothly to serve the needs of our employees. I do perform day-to-day maintenance and repairs, including software and computer installations and upgrades, environment setup, routine automation, security maintenance, networking,  troubleshooting, training, and technical support for all users , clients and projects of the organization.  
 
-- 🔭 I’m currently working on :  
+- 🔭 I’m currently working on —   
 1. Linux Administration  
 2. Windows Administration  
 
