@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-
-**anuniqs/anuniqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I ensure all systems have secure connections and perform smoothly to serve the needs of our employees. I do perform day-to-day maintenance and repairs, including software and computer installations and upgrades, environment setup, routine automation, security maintenance, networking,  troubleshooting, training, and technical support for all users , clients and projects of the organization.  
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
