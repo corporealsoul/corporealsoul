@@ -5,6 +5,12 @@ I'm a System And Server Administrator with 5+ years of professional experience w
 - 🔭 I’m currently working on —   
 1. Linux Administration  
 2. Windows Administration  
+3. AWS and Azure cloud Services  
+4. DevOps Lifecycle  
+5. Computer Networking  
+6. IOT Devices and Servers  
+7. Web Servers  
+8. Database Servers  
 
 <!--
 - 🔭 I’m currently working on ...
