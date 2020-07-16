@@ -22,11 +22,11 @@ I'm a System And Server Administrator with 5+ years of professional experience w
   
   
 - 📫 How to reach me  —  
-1. `GitHub` - `/anuniqs`  
-2. `LinkedIn` - `/anuniqs`  
-3. `Facebook` - `/anuniqs`  
-4. `Instagram` - `/anuniqs`  
-5. `Twitter` - `/anuniqs`  
+1. GitHub - `/anuniqs`  
+2. LinkedIn - `/anuniqs`  
+3. Facebook - `/anuniqs`  
+4. Instagram - `/anuniqs`  
+5. Twitter - `/anuniqs`  
 
 <!--
 - 🔭 I’m currently working on ...
