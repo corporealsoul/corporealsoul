@@ -18,7 +18,7 @@ I'm a System And Server Administrator with 5+ years of professional experience w
   
   
 - 💬 Ask me about —  
-1. System Administration  
+1. System and Server Administration  
   
   
 - 📫 How to reach me  —  
