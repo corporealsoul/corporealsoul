@@ -17,8 +17,16 @@ I'm a System And Server Administrator with 5+ years of professional experience w
 1. Windows Server 2012 R2 And Domain Control (AD)    
   
   
-- 📫 How to reach me  —
+- 💬 Ask me about —  
+1. System Administration  
   
+  
+- 📫 How to reach me  —  
+1. `GitHub` - `/anuniqs`  
+2. `LinkedIn` - `/anuniqs`  
+3. `Facebook` - `/anuniqs`  
+4. `Instagram` - `/anuniqs`  
+5. `Twitter` - `/anuniqs`  
 
 <!--
 - 🔭 I’m currently working on ...
