@@ -11,6 +11,14 @@ I'm a System And Server Administrator with 5+ years of professional experience w
 6. IOT Devices and Servers  
 7. Web Servers  
 8. Database Servers  
+  
+    
+- 🌱 I’m currently learning —  
+1. Windows Server 2012 R2 And Domain Control (AD)    
+  
+  
+- 📫 How to reach me  —
+  
 
 <!--
 - 🔭 I’m currently working on ...
