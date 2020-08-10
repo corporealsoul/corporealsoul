@@ -40,3 +40,8 @@ I'm a System And Server Administrator with 5+ years of professional experience w
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+<hr />
+
+`@AnuRish Brand Corp. , +91-9620481097 , uniqs.anup@gmail.com , https://www.linkedin.com/in/anuniqs/`
+   
