@@ -53,7 +53,7 @@ Texts
 
 Texts
 
-<div align="right">
+<div align="left">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=corporealsoul&show_icons=true&locale=en" alt="corporealsoul" />
 </div>
 
