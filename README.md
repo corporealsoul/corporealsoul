@@ -41,14 +41,19 @@ I'm a System And Server Administrator with 5+ years of professional experience w
 - ⚡ Fun fact: ...
 -->
 
+Who Viewed,
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=corporealsoul&label=Profile%20views&color=0e75b6&style=flat" alt="corporealsoul" /> </p>
 
 <br>
 
+Most used languages,
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=corporealsoul&show_icons=true&locale=en&layout=compact" alt="corporealsoul" /></p>
 
-
 <br>
+
+Stats,
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=corporealsoul&" alt="corporealsoul" /></p>
 
