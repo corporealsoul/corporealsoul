@@ -43,6 +43,6 @@ I'm a System And Server Administrator with 5+ years of professional experience w
   
 <hr />
 
-`@ Anup Kumar Mondal, AnuRish Brand Corp. , +91-9620481097 , uniqs.anup@gmail.com , https://www.linkedin.com/in/anuniqs/`
+![Header Ground](https://github.com/corporealsoul/corporealsoul/blob/master/Header_Ground.png?raw=true) 
    
    
