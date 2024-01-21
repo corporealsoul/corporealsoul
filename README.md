@@ -41,8 +41,7 @@ I'm a System And Server Administrator with 5+ years of professional experience w
 - ⚡ Fun fact: ...
 -->
   
-<hr />
 
-![Header Ground](https://github.com/corporealsoul/corporealsoul/blob/master/Header_Ground.png?raw=true) 
+![Header Ground](https://github.com/corporealsoul/corporealsoul/blob/master/Footer_Ground.png?raw=true) 
    
    
