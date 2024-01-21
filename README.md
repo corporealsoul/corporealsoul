@@ -49,7 +49,7 @@ I'm a System And Server Administrator with 5+ years of professional experience w
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=corporealsoul&" alt="corporealsoul" />
 </div>
 
-<div align="left">
+<div align="right">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=corporealsoul&show_icons=true&locale=en" alt="corporealsoul" />
 </div>
 
