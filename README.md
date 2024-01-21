@@ -41,6 +41,13 @@ I'm a System And Server Administrator with 5+ years of professional experience w
 - ⚡ Fun fact: ...
 -->
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=corporealsoul&show_icons=true&locale=en&layout=compact" alt="corporealsoul" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=corporealsoul&show_icons=true&locale=en" alt="corporealsoul" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=corporealsoul&" alt="corporealsoul" /></p>
+
+
 <br>
 
 ![Header Ground](https://github.com/corporealsoul/corporealsoul/blob/master/Footer_Ground.png?raw=true) 
