@@ -1,4 +1,4 @@
-![Header Ground](https://github.com/anuniqs/anuniqs/blob/master/Header_Ground.jpg?raw=true)
+![Header Ground](https://github.com/anuniqs/anuniqs/blob/master/1920x1080-template-Caption- OpStructs - Medium-01.png?raw=true)
 
 ### Hi there 👋
 
