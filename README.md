@@ -1,4 +1,4 @@
-![Header Ground](https://github.com/anuniqs/anuniqs/blob/master/Header_Ground.jpg?raw=true)
+![Header Ground](https://github.com/corporealsoul/corporealsoul/blob/master/Header_Ground.png?raw=true) 
 
 ### Hi there 👋
 
