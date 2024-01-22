@@ -40,9 +40,43 @@ I'm a System And Server Administrator with 5+ years of professional experience w
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  
-<hr />
 
-![Header Ground](https://github.com/corporealsoul/corporealsoul/blob/master/Header_Ground.png?raw=true) 
+skjnsajknsjanxnsajnxkjanxjsnajxnsjanxjanskjnskjnsajknsjanxnsajnxkjanxjsnajxnsjanxjanskjn
+skjnsajknsjanxnsajnxkjanxjsnajxnsjanxjanskjn
+skjnsajknsjanxnsajnxkjanxjsnajxnsjanxjanskjn
+skjnsajknsjanxnsajnxkjanxjsnajxnsjanxjanskjn
+
+
+<div align="left">
+    <img src="https://komarev.com/ghpvc/?username=corporealsoul&label=Profile%20views&color=0e75b6&style=flat" alt="corporealsoul" />
+</div>
+skjnsajknsjanxnsajnxkjanxjsnajxnsjanxjanskjn
+skjnsajknsjanxnsajnxkjanxjsnajxnsjanxjanskjn
+skjnsajknsjanxnsajnxkjanxjsnajxnsjanxjanskjn
+skjnsajknsjanxnsajnxkjanxjsnajxnsjanxjanskjn
+
+<div align="left">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=corporealsoul&show_icons=true&locale=en" alt="corporealsoul" />
+</div>
+skjnsajknsjanxnsajnxkjanxjsnajxnsjanxjanskjn
+skjnsajknsjanxnsajnxkjanxjsnajxnsjanxjanskjn
+skjnsajknsjanxnsajnxkjanxjsnajxnsjanxjanskjn
+skjnsajknsjanxnsajnxkjanxjsnajxnsjanxjanskjn
+
+<div align="left">
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=corporealsoul&" alt="corporealsoul" />
+</div>
+skjnsajknsjanxnsajnxkjanxjsnajxnsjanxjanskjn
+skjnsajknsjanxnsajnxkjanxjsnajxnsjanxjanskjn
+skjnsajknsjanxnsajnxkjanxjsnajxnsjanxjanskjn
+skjnsajknsjanxnsajnxkjanxjsnajxnsjanxjanskjn
+
+<div align="left">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=corporealsoul&show_icons=true&locale=en&layout=compact" alt="corporealsoul" />
+</div>
+
+<br>
+
+![Header Ground](https://github.com/corporealsoul/corporealsoul/blob/master/Footer_Ground.png?raw=true) 
    
    
