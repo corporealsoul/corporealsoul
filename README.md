@@ -1,7 +1,8 @@
 ![Header Ground](https://github.com/corporealsoul/corporealsoul/blob/master/synergists-header.png?raw=true) 
 
-<h1 align="center">Hi 👋, I'm Anup Kumar Mondal</h1>
-<h3 align="center">Dynamic IT Professional with over 8.7 years of hands-on experience designing, implementing, and optimizing innovative technology solutions. My expertise spans across system administration, network management, and security protocols, underscored by a proven track record of streamlining operations, enhancing efficiency, and driving business growth. I possess a unique ability to leverage emerging technologies to drive strategic initiatives, improve productivity, and consistently deliver exceptional results. My strong analytical and problem-solving skills are complemented by an unquenchable passion for continuous learning and professional development. I am committed to delivering high-quality solutions while ensuring exceptional client satisfaction.</h3>
+Hi There 👋, I'm **Anup Kumar Mondal**
+
+**Dynamic IT Professional with over 8.7 years of hands-on experience designing, implementing, and optimizing innovative technology solutions. My expertise spans across system administration, network management, and security protocols, underscored by a proven track record of streamlining operations, enhancing efficiency, and driving business growth. I possess a unique ability to leverage emerging technologies to drive strategic initiatives, improve productivity, and consistently deliver exceptional results. My strong analytical and problem-solving skills are complemented by an unquenchable passion for continuous learning and professional development. I am committed to delivering high-quality solutions while ensuring exceptional client satisfaction.**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=corporealsoul&label=Profile%20views&color=0e75b6&style=flat" alt="corporealsoul" /> </p>
 
