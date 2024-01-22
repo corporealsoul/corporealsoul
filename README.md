@@ -128,4 +128,4 @@ Dynamic IT Professional with over 8.7 years of hands-on experience designing, im
 
 <br>
 
-![Header Ground](https://github.com/corporealsoul/corporealsoul/blob/master/synergists-ground.png?raw=true) 
+![Header Ground](https://github.com/corporealsoul/corporealsoul/blob/master/synergists-footer.png?raw=true) 
