@@ -36,19 +36,7 @@ Dynamic IT Professional with over 8.7 years of hands-on experience designing, im
 
 <br>
 
-<h3 align="left">Connect with me :</h3>
-<p align="left">
-<a href="https://twitter.com/corporealsoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="corporealsoul" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/corporealsoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="corporealsoul" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/anup-kumar-mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anup-kumar-mondal" height="30" width="40" /></a>
-<a href="https://fb.com/corporealsoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="corporealsoul" height="30" width="40" /></a>
-<a href="https://instagram.com/corporealsoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="corporealsoul" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/corporealsoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="corporealsoul" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/corporealsoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="corporealsoul" height="30" width="40" /></a>
-<a href="https://discord.gg/discord.gg/FU3aerYykr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/FU3aerYykr" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">DevOps / SRE - COMPETENCE :</h3>
+<h3 align="left">DevOps / SRE - COMPETENCE ,</h3>
 
 * **LANGUAGE / SCRIPTING**	—	Python, Shell, C
 
@@ -82,59 +70,62 @@ Dynamic IT Professional with over 8.7 years of hands-on experience designing, im
 
 <br>
 
-<h3 align="left">DISTINCT TECHNICAL ABILITIES :</h3>
+<h3 align="left">Languages and Tools,</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
-DESIGN AND PLAN		:	Lucid, app.diagram
-
-DOCUMENTATION		:	Confluence, GitHub Wiki
-
-ARCHITECTURE / DEPLOY	:	Monolithic, Microservices	
-
-IDE				: 	IntelliJ IDEA, Visual Studio Code
-
-DEVELOPMENT			:	Java, Python, Laravel, React, Node, Ruby, PHP
-
-TEST				:	Selenium, JUnit
-
-RDBMS				:	PostgreSQL, pgAdmin, MySQL, MariaDB, MongoDB, SQLite, Oracle
-
-WEB SERVERS			:	Apache (HTTPD), Nginx
-
-APPLICATION SERVERS		:	TomCat, JBoss, WildFly 
-
-STACK				:	 LAMP, MEAN, MERN
-
-IT Mgmt			:	JIRA, Service Now, Spiceworks
-
-INSTANT MESSEGING 		:	Microsoft Teams, Skype, Google Chat, Slack, WebEx
-
-VIRTUALIZATION		: 	Oracle VM Virtualbox, VMware, VMware vSphere, Hyper-V, KVM, CVIM
-
-SERVER OS			:	RedHat, CentOS, Ubuntu, Windows, Raspbian, Ubuntu Core
-
-LINUX				:	Installation, Configuration, Setup, Patching, LVM, Cron, etc
-
-WINDOWS			:	Active Directory, User Management, Computer Management, 
-
-NETWORKING 			:	DNS, DHCP, TCP/IP, VPN, Wireless
-
-DNS AND IP			:	RedHat IPAM, Cloudflare 
-
-BACKUP			: 	Veeam, rsync
-
-SERVER Mgmt			:	Data Kitty, SRE Tools, GitLab
-
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=corporealsoul&show_icons=true&locale=en&layout=compact" alt="corporealsoul" /></p>
+
+<br>
+<p>   </p>
+<br>
+<br>
+<br>
+
+<h3 align="left">Introducing Synergists,</h3>
+<p align="left">
+</p>
+
+**Synergists : https://www.youtube.com/@synergists**
+
+### 🌐 Connect with Synergists,
+- LinkedIn : https://www.linkedin.com/company/synerginity
+- Instagram : https://www.instagram.com/synerginity
+- Facebook : https://www.facebook.com/synerginity
+- Twitter : https://twitter.com/synerginity
+- Threads : https://www.threads.net/@synerginity
+- Whatsaap : https://whatsapp.com/channel/0029VaEMIvc5a243OySdPT1l
+
+### 👥 Join Synergists Community,
+- Facebook : https://www.facebook.com/groups/synerginity
+- WhatsApp : https://chat.whatsapp.com/Ic375U66OQn4ecO1ekooEO
+- Reddit : https://www.reddit.com/r/synerginity
+- Slack : https://synerginity.slack.com
+- LinkedIn : https://www.linkedin.com/groups/14086721
+- Discord : https://discord.gg/FU3aerYykr
+- Blogger :  https://synerginity.blogspot.com/
+
+<br>
+
+<h3 align="left">Connect with me,</h3>
+<p align="left">
+<a href="https://twitter.com/corporealsoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="corporealsoul" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/corporealsoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="corporealsoul" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/anup-kumar-mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anup-kumar-mondal" height="30" width="40" /></a>
+<a href="https://fb.com/corporealsoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="corporealsoul" height="30" width="40" /></a>
+<a href="https://instagram.com/corporealsoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="corporealsoul" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/corporealsoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="corporealsoul" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/corporealsoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="corporealsoul" height="30" width="40" /></a>
+<a href="https://discord.gg/discord.gg/FU3aerYykr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/FU3aerYykr" height="30" width="40" /></a>
+</p>
+
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=corporealsoul&show_icons=true&locale=en" alt="corporealsoul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=corporealsoul&" alt="corporealsoul" /></p>
 
+<br>
 
 ![Header Ground](https://github.com/corporealsoul/corporealsoul/blob/master/synergists-ground.png?raw=true) 
-
-
-![Header Ground](https://github.com/corporealsoul/corporealsoul/blob/master/realmregal-ground.png?raw=true) 
-   
-   
