@@ -2,7 +2,7 @@
 
 Hi There 👋, I'm **Anup Kumar Mondal**
 
-**Dynamic IT Professional with over 8.7 years of hands-on experience designing, implementing, and optimizing innovative technology solutions. My expertise spans across system administration, network management, and security protocols, underscored by a proven track record of streamlining operations, enhancing efficiency, and driving business growth. I possess a unique ability to leverage emerging technologies to drive strategic initiatives, improve productivity, and consistently deliver exceptional results. My strong analytical and problem-solving skills are complemented by an unquenchable passion for continuous learning and professional development. I am committed to delivering high-quality solutions while ensuring exceptional client satisfaction.**
+Dynamic IT Professional with over 8.7 years of hands-on experience designing, implementing, and optimizing innovative technology solutions. My expertise spans across system administration, network management, and security protocols, underscored by a proven track record of streamlining operations, enhancing efficiency, and driving business growth. I possess a unique ability to leverage emerging technologies to drive strategic initiatives, improve productivity, and consistently deliver exceptional results. My strong analytical and problem-solving skills are complemented by an unquenchable passion for continuous learning and professional development. I am committed to delivering high-quality solutions while ensuring exceptional client satisfaction.
 
 <br>
 
