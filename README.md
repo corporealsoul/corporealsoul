@@ -36,7 +36,7 @@ Dynamic IT Professional with over 8.7 years of hands-on experience designing, im
 
 <br>
 
-<h3 align="left">DevOps / SRE - COMPETENCE ,</h3>
+<h3 align="left">DevOps / SRE - Competence ,</h3>
 
 * **LANGUAGE / SCRIPTING**	—	Python, Shell, C
 
