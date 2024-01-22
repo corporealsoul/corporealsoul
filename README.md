@@ -1,6 +1,6 @@
 ![Header Ground](https://github.com/corporealsoul/corporealsoul/blob/master/synergists-header.png?raw=true) 
 
-Hi There 👋, I'm **Anup Kumar Mondal**
+Hi There 👋, I'm <h3 align="left">Anup Kumar Mondal,</h3>
 
 Dynamic IT Professional with over 8.7 years of hands-on experience designing, implementing, and optimizing innovative technology solutions. My expertise spans across system administration, network management, and security protocols, underscored by a proven track record of streamlining operations, enhancing efficiency, and driving business growth. I possess a unique ability to leverage emerging technologies to drive strategic initiatives, improve productivity, and consistently deliver exceptional results. 
 
