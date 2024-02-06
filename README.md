@@ -13,11 +13,16 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=corporealsoul" alt="corporealsoul" /></a> </p>
+<a href="https://www.github.com/corporealsoul" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/corporealsoul?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <br>
 
 <p align="left"> <a href="https://twitter.com/corporealsoul" target="blank"><img src="https://img.shields.io/twitter/follow/corporealsoul?logo=twitter&style=for-the-badge" alt="corporealsoul" /></a> </p>
+
+<br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=corporealsoul" alt="corporealsoul" /></a> </p>
 
 <br>
 
