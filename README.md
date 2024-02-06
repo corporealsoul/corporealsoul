@@ -88,6 +88,13 @@ src="https://img.shields.io/github/followers/corporealsoul?logo=github&style=for
 <br>
 <p>   </p>
 <br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=corporealsoul&show_icons=true&locale=en&layout=compact" alt="corporealsoul" /></p>
+
+<br>
+<p>   </p>
+<br>
+<p>   </p>
 <br>
 <br>
 
