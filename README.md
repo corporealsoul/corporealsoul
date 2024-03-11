@@ -38,7 +38,10 @@ src="https://img.shields.io/github/followers/corporealsoul?logo=github&style=for
   <a href="https://twitter.com/corporealsoul" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%232E3440.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-bottom: 5px;">
   </a>
-  <a href="">
+  <a href="https://www.youtube.com/channel/@synergists" target="_blank">
+  <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin-bottom: 5px;">
+  </a>
+  <a href="https://github.com/corporealsoul" target="_blank">
     <img src=https://img.shields.io/badge/follow-%232E87FB.svg?&style=for-the-badge&logo=&logoColor=white alt=follow style="margin-bottom: 5px;" />
   </a>
 </div>
