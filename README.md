@@ -151,7 +151,6 @@ src="https://img.shields.io/github/followers/corporealsoul?logo=github&style=for
 
 ![Header Ground](https://github.com/corporealsoul/corporealsoul/blob/master/youtube-synergists.png?raw=true)
 
-![Header Ground](https://github.com/corporealsoul/corporealsoul/blob/master/popular-videos.png?raw=true)
 
 ### 🌐 Connect with Synergists,
 - LinkedIn : https://www.linkedin.com/company/synerginity
