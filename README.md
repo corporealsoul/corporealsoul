@@ -148,7 +148,8 @@ src="https://img.shields.io/github/followers/corporealsoul?logo=github&style=for
 <p>   </p>
 <br>
 <br>
-<h3 align="left">Introducing Synergists, A <span style="color: red">YouTube Channel</span> for DevOps/SRE</h3>
+
+<h3 align="left">Introducing Synergists, A <a href="https://www.youtube.com/channel/@synergists" target="_blank"> <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Synergists" style="margin-bottom: 5px;"> </a>Channel for DevOps/SRE</h3>
 
 **Synergists : https://www.youtube.com/@synergists**
 
