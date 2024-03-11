@@ -1,5 +1,11 @@
 ![Header Ground](https://github.com/corporealsoul/corporealsoul/blob/master/synergists-header.png?raw=true) 
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=2D3746&background=FFFFFF&center=true&vCenter=true&&lines=DevOps+Engineer;SRE+Engineer;CI/CD+Pipelines;Infrastructure+as+Code;Containerization;Cloud+Platforms;Automation+Tools;Monitoring+and+Observability;Security+Best+Practices;Networking+Concepts;Scripting+Languages;Version+Control;Incident+Management" alt="Typing animation">
+  </a>
+</div>
+
 <h3 align="left">Anup Kumar Mondal,</h3>
 
 Dynamic IT Professional with over 8+ years of hands-on experience designing, implementing, and optimizing innovative technology solutions. My expertise spans across system administration, network management, and security protocols, underscored by a proven track record of streamlining operations, enhancing efficiency, and driving business growth. I possess a unique ability to leverage emerging technologies to drive strategic initiatives, improve productivity, and consistently deliver exceptional results. 
@@ -9,20 +15,56 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=corporealsoul&label=Profile%20views&color=0e75b6&style=flat" alt="corporealsoul" /> </p>
-
-<br>
-
 <a href="https://www.github.com/corporealsoul" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/corporealsoul?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <br>
 
-<p align="left"> <a href="https://twitter.com/corporealsoul" target="blank"><img src="https://img.shields.io/twitter/follow/corporealsoul?logo=twitter&style=for-the-badge" alt="corporealsoul" /></a> </p>
+<div align="left"> <img width="200px" src="https://komarev.com/ghpvc/?username=corporealsoul&&style=for-the-badge" align="center" /> </div>
 
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=corporealsoul" alt="corporealsoul" /></a> </p>
+<div align="center">
+
+  <a href="https://github.com/corporealsoul" target="_blank">
+    <img src="https://img.shields.io/badge/github-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;">
+  </a>
+  <a href="https://www.linkedin.com/in/corporealsoul/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;">
+  </a>
+  <a href="https://twitter.com/corporealsoul" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%232E3440.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-bottom: 5px;">
+  </a>
+</div>
+
+<table>
+  <tr>
+    <td colspan="2">
+      <a href="https://www.linkedin.com/in/corporealsoul/">
+        <img src="https://github-profile-trophy.vercel.app/?username=corporealsoul&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true" width="100%">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <a href="https://www.linkedin.com/in/corporealsoul/">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=corporealsoul&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/corporealsoul/">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=corporealsoul&theme=nord">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/corporealsoul/">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corporealsoul&theme=nord_dark">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
