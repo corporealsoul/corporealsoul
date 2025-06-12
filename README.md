@@ -149,43 +149,4 @@ src="https://img.shields.io/github/followers/corporealsoul?logo=github&style=for
 <br>
 <br>
 
-<h3 align="left">Introducing Synergists, A <a href="https://www.youtube.com/channel/@synergists" target="_blank"> <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Synergists" style="margin-bottom: 5px;"> </a>Channel for DevOps/SRE</h3>
-
-**Synergists : https://www.youtube.com/@synergists**
-
-![Header Ground](https://github.com/corporealsoul/corporealsoul/blob/master/youtube-synergists.png?raw=true)
-
-
-### 🌐 Connect with Synergists,
-- LinkedIn : https://www.linkedin.com/company/synerginity
-- Instagram : https://www.instagram.com/synerginity
-- Facebook : https://www.facebook.com/synerginity
-- Twitter : https://twitter.com/synerginity
-- Threads : https://www.threads.net/@synerginity
-- Whatsaap : https://whatsapp.com/channel/0029VaEMIvc5a243OySdPT1l
-
-### 👥 Join Synergists Community,
-- Facebook : https://www.facebook.com/groups/synerginity
-- WhatsApp : https://chat.whatsapp.com/Ic375U66OQn4ecO1ekooEO
-- Reddit : https://www.reddit.com/r/synerginity
-- Slack : https://synerginity.slack.com
-- LinkedIn : https://www.linkedin.com/groups/14086721
-- Discord : https://discord.gg/FU3aerYykr
-- Blogger :  https://synerginity.blogspot.com/
-
-<br>
-
-<h3 align="left">Connect with me,</h3>
-<p align="left">
-<a href="https://twitter.com/corporealsoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="corporealsoul" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/corporealsoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="corporealsoul" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/anup-kumar-mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anup-kumar-mondal" height="30" width="40" /></a>
-<a href="https://fb.com/corporealsoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="corporealsoul" height="30" width="40" /></a>
-<a href="https://instagram.com/corporealsoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="corporealsoul" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/corporealsoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="corporealsoul" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/corporealsoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="corporealsoul" height="30" width="40" /></a>
-<a href="https://discord.gg/discord.gg/FU3aerYykr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/FU3aerYykr" height="30" width="40" /></a>
-</p>
-
-
 ![Header Ground](https://github.com/corporealsoul/corporealsoul/blob/master/synergists-footer.png?raw=true) 
