@@ -50,20 +50,7 @@ Checked
       </a>
 
 
-<table>
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/corporealsoul/">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=corporealsoul&theme=nord">
-      </a>
-    </td>
-    <td>
-      <a href="https://www.linkedin.com/in/corporealsoul/">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corporealsoul&theme=nord_dark">
-      </a>
-    </td>
-  </tr>
-</table>
+
 
 
 
