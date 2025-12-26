@@ -124,33 +124,4 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 
 <br>
 
-
-
-
-
-
-<div align="center">
-  <a href="https://github.com/corporealsoul">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corporealsoul&langs_count=8&title_color=0D6EFD&text_color=2D3746&icon_color=0D6EFD&bg_color=ffffff&hide_border=true&locale=en&custom_title=Core+Technical+Ecosystem&layout=compact" alt="Anup's Technical Ecosystem" />
-  </a>
-</div>
-
-<br>
-
-
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=corporealsoul&show_icons=true&locale=en&layout=compact" alt="corporealsoul" /></p>
-
-<br>
-<p>   </p>
-<br>
-<p>   </p>
-<br>
-<p>   </p>
-<br>
-<br>
-
 ![Header Ground](https://github.com/corporealsoul/corporealsoul/blob/master/corporealsoul-footer-reverse.png?raw=true) 
