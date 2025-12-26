@@ -17,7 +17,7 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 <br>
 
 <div align="center">
-  <table border="0">
+  <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td align="center" style="padding: 10px;">
         <img src="https://komarev.com/ghpvc/?username=corporealsoul&color=0D6EFD&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
