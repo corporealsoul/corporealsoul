@@ -49,15 +49,7 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 </a>
 </div>
 
-checked
-
-<a href="https://www.linkedin.com/in/corporealsoul/">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=corporealsoul&theme=nord">
-      </a>
-
-
-
-
+<br>
 
 
 
@@ -81,6 +73,11 @@ checked
 
 <br />
 
+
+
+
+
+
 <h3>Specialized Enterprise Stack</h3>
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -100,6 +97,9 @@ checked
 </p>
 
 <br />
+
+
+
 
 
 <h3>Get In Touch</h3>
@@ -126,6 +126,7 @@ checked
 
 </div>
 
+<br>
 
 
 
