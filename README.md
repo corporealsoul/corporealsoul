@@ -73,37 +73,25 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 
 <br>
 
-<h3 align="left">DevOps / SRE - Competence ,</h3>
+<h3 align="left">🛠️ Specialized Enterprise Stack</h3>
 
-* **LANGUAGE / SCRIPTING**	—	Python, Shell, C
-
-* **BUILD**			—	Maven, Gradle, NPM, PIP
-
-* **VERSION CONTROL (SCM)**	—	GIT, GitHub Desktop, Sourcetree
-
-* **GIT REPOSITORY**		—	Github, GitLab, Git BitBucket
-
-* **CI/CD**			—	Jenkins, TeamCity, FluxCD, Harness
-
-* **ARTIFACTORY**		—	JFrog, Sonatype Nexus Repository Manager
-
-* **CONTAINERIZATION**		—	Docker, DTR, Docker Hub, UCP
-
-* **CONTAINER ORCHESTRATION**	—	Swarm, Kubernetes, Rancher
-
-* **CLOUD**			—	AWS, GCP,  Azure, OpenStack
-
-* **CONFIG Mgmt (IaC)**		—	Ansible, Ansible Tower, Progress Chef, Terraform
-
-* **MONITORING AND ALERTING**
-
-* **DATA COLLECTOR**		—	Elastic Search, Loki, Prometheus, 
-
-* **DATA STORAGE**		—	Prometheus, InfluxDB
-
-* **DATA VISUALIZATION**	—	New Relic, Nagios XI, LogicMonitor, ELK, Grafana
-	
-* **LOG Mgmt / Analysis**	—	Splunk, Grafana
+<p align="left">
+  <img src="https://img.shields.io/badge/SAP_Ariba-0D6EFD?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Leadership-0D6EFD?style=for-the-badge&logo=google-cloud-run&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-333333?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 <br>
 
