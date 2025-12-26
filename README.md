@@ -49,6 +49,7 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 
 
 
+
 <div align="center">
 
 <table border="0" cellpadding="0" cellspacing="0">
@@ -87,15 +88,13 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 <br />
 
 
-
-
-
 <h3>Get In Touch</h3>
+
 
 <div align="center">
   <br />
   <a href="https://corporealsoul.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/corporealsoul/" target="_blank">
@@ -103,7 +102,11 @@ My strong analytical and problem-solving skills are complemented by an unquencha
   </a>
   &nbsp;
   <a href="https://www.youtube.com/channel/@synergists" target="_blank">
-    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YOUTUBE-0D6EFD?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/corporealsoul" target="_blank">
+    <img src="https://img.shields.io/badge/TWITTER-0D6EFD?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
 
