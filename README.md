@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=24&duration=3500&pause=1000&color=2D3746&background=FFFFFF&center=true&vCenter=true&width=700&lines=Leadership;Infrastructure;DevOps+Engineering;SRE+Engineering;Cloud+Computing;Containerization;Kubernetes;CI/CD+Pipelines;Infrastructure+as+Code+(IaC);Enterprise+Observability;Automated+Workflow+Optimization;Security+%26+DevSecOps;Linux+%26+Networking+Fundamentals" alt="Anup's Professional Roles">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=24&duration=3500&pause=1000&color=2D3746&background=FFFFFF&center=true&vCenter=true&width=700&lines=Infrastructure;DevOps+Engineering;SRE+Engineering;Cloud+Computing;Containerization;Kubernetes;CI/CD+Pipelines;Infrastructure+as+Code+(IaC);Enterprise+Observability;Automated+Workflow+Optimization;Security+%26+DevSecOps;Linux+%26+Networking+Fundamentals" alt="Anup's Professional Roles">
   </a>
 </div>
 
@@ -67,7 +67,7 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 
 <br />
 
-<h3>🏛️ Specialized Enterprise Stack</h3>
+<h3>Specialized Enterprise Stack</h3>
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -86,6 +86,10 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 </p>
 
 <br />
+
+
+<h3>Get In Touch</h3>
+
 
 <a href="https://www.linkedin.com/in/corporealsoul/" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-0D6EFD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
