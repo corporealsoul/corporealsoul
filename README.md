@@ -1,21 +1,24 @@
 ![Header Ground](https://github.com/corporealsoul/corporealsoul/blob/master/corporealsoul-header.png?raw=true) 
+<br>
+
+
+
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=24&duration=3500&pause=1000&color=2D3746&background=FFFFFF&center=true&vCenter=true&width=700&lines=Infrastructure;DevOps+Engineering;SRE+Engineering;Cloud+Computing;Containerization;Kubernetes;CI/CD+Pipelines;Infrastructure+as+Code+(IaC);Enterprise+Observability;Automated+Workflow+Optimization;Security+%26+DevSecOps;Linux+%26+Networking+Fundamentals" alt="Anup's Professional Roles">
   </a>
 </div>
+<br>
 
 
 
 
 
 <h3 align="left">Anup Kumar Mondal,</h3>
-
 Dynamic IT Professional with over 8+ years of hands-on experience designing, implementing, and optimizing innovative technology solutions. My expertise spans across system administration, network management, and security protocols, underscored by a proven track record of streamlining operations, enhancing efficiency, and driving business growth. I possess a unique ability to leverage emerging technologies to drive strategic initiatives, improve productivity, and consistently deliver exceptional results. 
-
 My strong analytical and problem-solving skills are complemented by an unquenchable passion for continuous learning and professional development. I am committed to delivering high-quality solutions while ensuring exceptional client satisfaction.
-
 <br>
 
 
@@ -27,22 +30,18 @@ My strong analytical and problem-solving skills are complemented by an unquencha
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=corporealsoul&bg_color=ffffff&hide_border=true&color=0D6EFD&line=0D6EFD&point=0D6EFD&area=true&hide_author=true" width="100%" alt="Activity Graph" />
   </a>
 </div>
+<br>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/corporealsoul/">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=corporealsoul&theme=nord">
-      </a>
-    </td>
-    <td>
-      <a href="https://www.linkedin.com/in/corporealsoul/">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corporealsoul&theme=nord_dark">
-      </a>
-    </td>
-  </tr>
-</table>
 
+
+
+
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/corporealsoul/">
+    <img src="https://github-readme-stats.vercel.app/api?username=corporealsoul&show_icons=true&hide_border=true&title_color=0D6EFD&icon_color=0D6EFD&text_color=2D3746&bg_color=ffffff&count_private=true" alt="Profile Details" />
+  </a>
+</div>
 <br>
 
 
