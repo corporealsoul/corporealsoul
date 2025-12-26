@@ -25,7 +25,7 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 
 
 
-<h3>Specialized Enterprise Stack</h3>
+<h3>Specialized Enterprise Stack,</h3>
 <div align="left">
 <img src="https://img.shields.io/badge/ANSIBLE-0D6EFD?style=for-the-badge&logo=ansible&logoColor=white" />
 <img src="https://img.shields.io/badge/OBSERVABILITY-0D6EFD?style=for-the-badge&logo=grafana&logoColor=white" />
@@ -100,19 +100,15 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 <div align="center">
   <br />
   <a href="https://corporealsoul.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-1c1917?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/corporealsoul/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0D6EFD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://www.youtube.com/channel/@synergists" target="_blank">
-    <img src="https://img.shields.io/badge/YOUTUBE-0D6EFD?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/corporealsoul" target="_blank">
-    <img src="https://img.shields.io/badge/TWITTER-0D6EFD?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </div>
 
