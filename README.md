@@ -1,7 +1,5 @@
 ![Header Ground](https://github.com/corporealsoul/corporealsoul/blob/master/corporealsoul-header.png?raw=true) 
 
-<br>
-
 
 
 
@@ -11,8 +9,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=24&duration=3500&pause=1000&color=2D3746&background=FFFFFF&center=true&vCenter=true&width=700&lines=Infrastructure;DevOps+Engineering;SRE+Engineering;Cloud+Computing;Containerization;Kubernetes;CI/CD+Pipelines;Infrastructure+as+Code+(IaC);Enterprise+Observability;Automated+Workflow+Optimization;Security+%26+DevSecOps;Linux+%26+Networking+Fundamentals" alt="Anup's Professional Roles">
   </a>
 </div>
-
-<br>
 
 
 
