@@ -49,7 +49,6 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 
 
 
-
 <div align="center">
 
 <table border="0" cellpadding="0" cellspacing="0">
@@ -88,9 +87,10 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 <br />
 
 
+
+
+
 <h3>Get In Touch</h3>
-
-
 <div align="center">
   <br />
   <a href="https://corporealsoul.github.io/" target="_blank">
