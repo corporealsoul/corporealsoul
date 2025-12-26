@@ -50,34 +50,37 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 
 <br>
 
-<table>
-  <tr>
-    <td colspan="2">
-      <a href="https://www.linkedin.com/in/corporealsoul/">
-        <img src="https://github-profile-trophy.vercel.app/?username=corporealsoul&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true" width="100%">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <a href="https://www.linkedin.com/in/corporealsoul/">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=corporealsoul&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/corporealsoul/">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=corporealsoul&theme=nord">
-      </a>
-    </td>
-    <td>
-      <a href="https://www.linkedin.com/in/corporealsoul/">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corporealsoul&theme=nord_dark">
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://www.linkedin.com/in/corporealsoul/">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=corporealsoul&bg_color=ffffff&hide_border=true&color=0D6EFD&line=0D6EFD&point=0D6EFD&area=true&hide_author=true" width="100%" alt="Activity Graph" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://www.linkedin.com/in/corporealsoul/">
+          <img src="https://github-profile-trophy.vercel.app/?username=corporealsoul&theme=flat&no-bg=true&no-frame=true&margin-w=15&column=6" alt="Trophies" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://www.linkedin.com/in/corporealsoul/">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=corporealsoul&theme=pure&hide_border=true&stroke=0D6EFD&ring=0D6EFD&fire=0D6EFD&currStreakLabel=0D6EFD" width="100%" alt="Streak" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://www.linkedin.com/in/corporealsoul/">
+          <img src="https://github-readme-stats.vercel.app/api?username=corporealsoul&show_icons=true&hide_border=true&title_color=0D6EFD&icon_color=0D6EFD&text_color=2D3746&bg_color=ffffff" width="100%" alt="Profile Details" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
