@@ -29,6 +29,28 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 
 
 
+<h3 align="center">Skills</h3>
+<div align="center">
+<img src="https://img.shields.io/badge/SRE_%26_DEVOPS-0D6EFD?style=for-the-badge&logo=google-cloud-run&logoColor=white" />
+<img src="https://img.shields.io/badge/CLOUD_COMPUTING-0D6EFD?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/KUBERNETES-0D6EFD?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/DOCKER-0D6EFD?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/JENKINS-0D6EFD?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/IaC_TERRAFORM-0D6EFD?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/ANSIBLE-0D6EFD?style=for-the-badge&logo=ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/OBSERVABILITY-0D6EFD?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/PROMETHEUS-0D6EFD?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/DEVSECOPS-0D6EFD?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+<img src="https://img.shields.io/badge/AIOPS-0D6EFD?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/LINUX_%26_NETWORKING-0D6EFD?style=for-the-badge&logo=linux&logoColor=white" />
+</div>
+<br>
+
+
+
+
+
+
 <div align="center">
   <a href="https://www.linkedin.com/in/corporealsoul/">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=corporealsoul&bg_color=ffffff&hide_border=true&color=0D6EFD&line=0D6EFD&point=0D6EFD&area=true&hide_author=true" width="100%" alt="Activity Graph" />
@@ -50,7 +72,7 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 </div>
 
 <br>
-Checkpoint
+Checkpoint 2
 
 
 
@@ -66,6 +88,7 @@ Checkpoint
 
 
 
+<br>
 <br>
 
 <div align="center">
