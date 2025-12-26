@@ -149,4 +149,4 @@ src="https://img.shields.io/github/followers/corporealsoul?logo=github&style=for
 <br>
 <br>
 
-![Header Ground](https://github.com/corporealsoul/corporealsoul/blob/master/corporealsoul-footer?raw=true) 
+![Header Ground](https://github.com/corporealsoul/corporealsoul/blob/master/corporealsoul-footer.png?raw=true) 
