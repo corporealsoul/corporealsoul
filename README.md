@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=30&duration=3500&pause=1000&color=0D6EFD&background=FFFFFF&center=true&vCenter=true&width=700&lines=Leadership;Infrastructure;DevOps+Engineering;SRE+Engineering;Cloud+Computing;Containerization;Kubernetes;CI/CD+Pipelines;Infrastructure+as+Code+(IaC);Enterprise+Observability;Automated+Workflow+Optimization;Security+%26+DevSecOps;Linux+%26+Networking+Fundamentals" alt="Anup's Professional Roles">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=24&duration=3500&pause=1000&color=2D3746&background=FFFFFF&center=true&vCenter=true&width=700&lines=Leadership;Infrastructure;DevOps+Engineering;SRE+Engineering;Cloud+Computing;Containerization;Kubernetes;CI/CD+Pipelines;Infrastructure+as+Code+(IaC);Enterprise+Observability;Automated+Workflow+Optimization;Security+%26+DevSecOps;Linux+%26+Networking+Fundamentals" alt="Anup's Professional Roles">
   </a>
 </div>
 
