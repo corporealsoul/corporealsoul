@@ -41,8 +41,24 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 
 Checked
 
+
+
+<a href="https://www.linkedin.com/in/corporealsoul/">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=corporealsoul&theme=nord">
+      </a>
+
+<a href="https://www.linkedin.com/in/corporealsoul/">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corporealsoul&theme=nord_dark">
+      </a>
+
+
 <table>
   <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/corporealsoul/">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=corporealsoul&theme=nord">
+      </a>
+    </td>
     <td>
       <a href="https://www.linkedin.com/in/corporealsoul/">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corporealsoul&theme=nord_dark">
@@ -53,9 +69,7 @@ Checked
 
 
 
-<a href="https://github.com/corporealsoul?tab=followers">
-<img src="https://img.shields.io/github/followers/corporealsoul?logo=github&style=for-the-badge&color=0D6EFD&labelColor=1c1917&label=FOLLOWERS" alt="Followers" />
-</a>
+
 
 
 
