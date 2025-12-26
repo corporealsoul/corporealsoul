@@ -1,75 +1,111 @@
-<div align="center">
-  <img src="https://github.com/corporealsoul/corporealsoul/blob/master/synergists-header.png?raw=true" width="100%" alt="Header" />
-</div>
+![Header](https://github.com/corporealsoul/corporealsoul/blob/master/synergists-header.png?raw=true)
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=28&duration=3000&pause=500&color=0D6EFD&background=FFFFFF&center=true&vCenter=true&lines=Reporting+Manager;SAP+Ariba+Consultant;Site+Reliability+Engineering;Infrastructure+as+Code;Enterprise+Observability;Leadership+%26+Management" alt="Typing animation">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=500&color=2D3746&center=true&vCenter=true&lines=DevOps+Engineering;Site+Reliability+Engineering;Cloud+Platforms;Infrastructure+as+Code;CI%2FCD+Automation;Observability+%26+Monitoring;Platform+Engineering;AIOps+Exploration" alt="Typing SVG">
   </a>
 </div>
 
 ---
 
-### 🏛️ Executive Profile
+## 👋 Hi, I’m **Anup Kumar Mondal**
+### Principal DevOps / Site Reliability Engineer
 
-**Reporting Manager & Appraiser Consultant at HCLTech (SAP Ariba)** *Ex-Wipro | Ex-Cisco | 8+ Years of Technical Leadership*
+I design, build, and operate **reliable, scalable production platforms** using SRE principles, cloud-native tooling, and automation-first practices.  
+With **8+ years of hands-on experience**, I specialize in turning complex systems into **predictable, observable, and resilient platforms**.
 
-Dynamic IT Professional with over 8+ years of hands-on experience designing, implementing, and optimizing innovative technology solutions. My expertise spans across **System Administration**, **SRE**, and **Management**, underscored by a proven track record of streamlining operations and driving business growth through data-driven reporting.
+---
+
+## 🚀 Current Focus
+
+- Building **SRE-driven reliability platforms** (SLIs, SLOs, error budgets)
+- Cloud-native infrastructure on **AWS & GCP**
+- **CI/CD & GitOps** pipelines for safe, repeatable releases
+- **Observability platforms** using Prometheus, Grafana, Loki & ELK
+- Exploring **AI/AIOps** to reduce incident noise and MTTR
+
+---
+
+## 🧠 Impact Highlights
+
+- Supported and operated **enterprise-scale production systems**
+- Improved deployment reliability through **standardized CI/CD pipelines**
+- Reduced incident MTTR using **monitoring, alerting, and runbooks**
+- Collaborated with **global teams** across time zones
+- Mentored engineers and helped align fragmented platforms
+
+---
+
+## 🛠 Core Expertise
+
+### 🔹 SRE & Reliability
+- SLIs, SLOs, Error Budgets  
+- Incident Management & Postmortems  
+- Capacity Planning & Availability Engineering  
+
+### 🔹 Platform & Cloud
+- AWS · GCP · Azure · OpenStack  
+
+### 🔹 Containers & Orchestration
+- Docker · Kubernetes · Swarm · Rancher  
+
+### 🔹 CI/CD & GitOps
+- Jenkins · TeamCity · FluxCD · Harness  
+
+### 🔹 Infrastructure as Code
+- Terraform · Ansible · Chef  
+
+### 🔹 Observability
+- Prometheus · Grafana · Loki · ELK · Splunk  
+
+---
+
+## 📌 Featured Work
+
+- 🔭 **Site Reliability Engineering Projects**  
+  https://github.com/users/corporealsoul/projects/102
+
+- 👨‍💻 **All Projects & Experiments**  
+  https://github.com/users/corporealsoul/projects
+
+---
+
+## 🌐 Connect & Learn
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/corporealsoul/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.youtube.com/channel/@synergists" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="mailto:uniqs.anup@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+
+<a href="https://github.com/corporealsoul">
+  <img src="https://img.shields.io/badge/GitHub-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/corporealsoul/">
+  <img src="https://img.shields.io/badge/LinkedIn-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://twitter.com/corporealsoul">
+  <img src="https://img.shields.io/badge/Twitter-%232E3440.svg?&style=for-the-badge&logo=twitter&logoColor=white">
+</a>
+<a href="https://www.youtube.com/@synergists">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
 </div>
 
 ---
 
-### 🛠️ Technical Competence & Management
+## 📊 GitHub Activity
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Management** | Reporting, Appraiser Consulting, SAP Ariba, Team Leadership |
-| **Cloud & Infra** | AWS, GCP, Azure, OpenStack, Terraform, Ansible |
-| **SRE & DevOps** | Kubernetes, Docker, Jenkins, FluxCD, CI/CD Pipelines |
-| **Observability** | Prometheus, Grafana, ELK Stack, New Relic, Splunk |
-| **Languages** | Python (Current Focus), Shell Scripting, C |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=corporealsoul&show_icons=true&theme=nord&hide_border=true">
+</p>
 
----
-
-### 📊 Ecosystem Metrics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=corporealsoul&show_icons=true&theme=nord&hide_border=true&title_color=0d6efd" alt="Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corporealsoul&layout=compact&theme=nord&hide_border=true&title_color=0d6efd" alt="Top Langs" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=corporealsoul&bg_color=ffffff&hide_border=true&color=0d6efd&line=0d6efd&point=0d6efd&area=true&hide_author=true" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=corporealsoul&bg_color=2e3440&hide_border=true&line=88c0d0&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff">
+</p>
 
 ---
 
-### ⚡ Professional Focus
-- 🔭 **Current Project:** Scaling [Enterprise SRE Frameworks](https://github.com/users/corporealsoul/projects/102)
-- 🌱 **Learning Path:** Advanced Python for AIOps and Data Analytics
-- 💬 **Expertise:** Ask me about **SAP Ariba Workflows** or **Prometheus/Grafana** stacks
-- 📄 **Portfolio:** Explore my [Professional Journey](https://github.com/corporealsoul)
+📫 **Reach me:** uniqs.anup@gmail.com  
+💬 **Ask me about:** DevOps, SRE, Cloud Platforms, CI/CD, Observability
 
-<div align="center">
-  <img src="https://github.com/corporealsoul/corporealsoul/blob/master/synergists-footer.png?raw=true" width="100%" alt="Footer" />
-</div>
+---
+
+![Footer](https://github.com/corporealsoul/corporealsoul/blob/master/synergists-footer.png?raw=true)
