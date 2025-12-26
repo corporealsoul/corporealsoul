@@ -119,4 +119,4 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 
 
 
-![Header Ground](https://github.com/corporealsoul/corporealsoul/blob/master/corporealsoul-footer-reverse.png?raw=true) 
+![Footer Ground](https://github.com/corporealsoul/corporealsoul/blob/master/corporealsoul-footer.png?raw=true) 
