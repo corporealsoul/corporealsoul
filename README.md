@@ -43,9 +43,7 @@ Checked
 
 
 
-<a href="https://www.linkedin.com/in/corporealsoul/">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=corporealsoul&theme=nord">
-      </a>
+
 
 <a href="https://www.linkedin.com/in/corporealsoul/">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corporealsoul&theme=nord_dark">
