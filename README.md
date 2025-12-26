@@ -52,6 +52,24 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 
 <div align="center">
 
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+    <td align="center" style="padding: 5px;">
+    <img src="https://komarev.com/ghpvc/?username=corporealsoul&color=0D6EFD&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+    </td>
+    <td align="center" style="padding: 5px;">
+    <a href="https://github.com/corporealsoul?tab=followers">
+        <img src="https://img.shields.io/github/followers/corporealsoul?logo=github&style=for-the-badge&color=0D6EFD&labelColor=1c1917&label=FOLLOWERS" alt="Followers" />
+    </a>
+    </td>
+</tr>
+</table>
+<br />
+
+
+
+
+
 <h3>Specialized Enterprise Stack</h3>
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
