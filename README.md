@@ -53,7 +53,9 @@ Checked
 
 
 
-
+<a href="https://github.com/corporealsoul?tab=followers">
+<img src="https://img.shields.io/github/followers/corporealsoul?logo=github&style=for-the-badge&color=0D6EFD&labelColor=1c1917&label=FOLLOWERS" alt="Followers" />
+</a>
 
 
 
