@@ -50,14 +50,13 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 
 <br>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/corporealsoul/">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=corporealsoul&bg_color=ffffff&hide_border=true&color=0D6EFD&line=0D6EFD&point=0D6EFD&area=true&hide_author=true" width="100%" alt="Activity Graph" />
+  </a>
+</div>
+
 <table>
-  <tr>
-    <td colspan="2">
-      <a href="https://www.linkedin.com/in/corporealsoul/">
-        <img src="https://github-profile-trophy.vercel.app/?username=corporealsoul&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true" width="100%">
-      </a>
-    </td>
-  </tr>
   <tr>
     <td colspan="2">
       <a href="https://www.linkedin.com/in/corporealsoul/">
