@@ -86,6 +86,8 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 <img src="https://img.shields.io/github/followers/corporealsoul?logo=github&style=for-the-badge&color=0D6EFD&labelColor=1c1917&label=FOLLOWERS" alt="Followers" />
 
 <br />
+<br />
+<br />
 
 
 
