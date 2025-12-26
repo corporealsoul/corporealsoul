@@ -55,16 +55,16 @@ Checkpoint
 
 
 
-<div>
-<a href="https://github.com/corporealsoul" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corporealsoul&langs_count=10&title_color=0f172a&text_color=444e59&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Repository%20%Languages" alt="Top Languages" /></a>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=corporealsoul&show_icons=true&locale=en&layout=compact" alt="corporealsoul" /></p>
-
+<div align="center">
+  <a href="https://github.com/corporealsoul">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corporealsoul&langs_count=8&title_color=0D6EFD&text_color=2D3746&icon_color=0D6EFD&bg_color=ffffff&hide_border=true&locale=en&custom_title=Core+Technical+Ecosystem&layout=compact" alt="Top Languages Dashboard" />
+  </a>
 </div>
 
 
 
 
-
+<br>
 
 <div align="center">
 
