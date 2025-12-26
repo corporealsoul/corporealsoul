@@ -43,13 +43,13 @@ Checked
 
 
 
-
+<div align="center">
 
 <a href="https://www.linkedin.com/in/corporealsoul/">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corporealsoul&theme=nord_dark">
       </a>
 
-
+</div>
 
 
 
