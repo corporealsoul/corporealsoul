@@ -78,9 +78,6 @@ My strong analytical and problem-solving skills are complemented by an unquencha
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
 
-<br />
-
-<h3>🛠️ Core Engineering Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/C-0D6EFD?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/PYTHON-0D6EFD?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
