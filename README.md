@@ -49,41 +49,26 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 
 
 
+
 <div align="center">
-
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" style="padding: 5px;">
-      <img src="https://komarev.com/ghpvc/?username=corporealsoul&color=0D6EFD&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-    </td>
-    <td align="center" style="padding: 5px;">
-      <a href="https://github.com/corporealsoul?tab=followers">
-        <img src="https://img.shields.io/github/followers/corporealsoul?logo=github&style=for-the-badge&color=0D6EFD&labelColor=1c1917&label=FOLLOWERS" alt="Followers" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br />
 
 <h3>Specialized Enterprise Stack</h3>
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/C-0D6EFD?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/PYTHON-0D6EFD?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/BASH_SCRIPTING-0D6EFD?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/YAML-0D6EFD?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML" />
+<img src="https://img.shields.io/badge/C-0D6EFD?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/PYTHON-0D6EFD?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/BASH_SCRIPTING-0D6EFD?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/YAML-0D6EFD?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML" />
 </p>
-
 <br />
 
 
@@ -91,20 +76,19 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 
 
 <h3>Get In Touch</h3>
-
 <div align="center">
-  <br />
-  <a href="https://corporealsoul.github.io/" target="_blank">
+<br />
+<a href="https://corporealsoul.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/corporealsoul/" target="_blank">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/corporealsoul/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0D6EFD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://www.youtube.com/channel/@synergists" target="_blank">
+</a>
+&nbsp;
+<a href="https://www.youtube.com/channel/@synergists" target="_blank">
     <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
+</a>
 </div>
 
 </div>
