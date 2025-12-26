@@ -79,34 +79,11 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 
 
 
-<div align="center">
-<a href="https://github.com/corporealsoul" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corporealsoul&langs_count=10&title_color=0f172a&text_color=444e59&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Repository%20%Languages" alt="Top Languages" /></a>
-</div>
+
 
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=corporealsoul&show_icons=true&locale=en&layout=compact" alt="corporealsoul" /></p>
-</div>
-
-
-
-
-<br>
-<br>
-
-<div align="center">
-
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" style="padding: 5px;">
-      <img src="https://komarev.com/ghpvc/?username=corporealsoul&color=0D6EFD&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-    </td>
-    <td align="center" style="padding: 5px;">
-      <a href="https://github.com/corporealsoul?tab=followers">
-        <img src="https://img.shields.io/github/followers/corporealsoul?logo=github&style=for-the-badge&color=0D6EFD&labelColor=1c1917&label=FOLLOWERS" alt="Followers" />
-      </a>
-    </td>
-  </tr>
-</table>
+<img src="https://komarev.com/ghpvc/?username=corporealsoul&color=0D6EFD&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/corporealsoul?logo=github&style=for-the-badge&color=0D6EFD&labelColor=1c1917&label=FOLLOWERS" alt="Followers" />
 
 <br />
 
@@ -115,7 +92,7 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 
 
 
-<h3>Get In Touch</h3>
+<h3>Connect with me!</h3>
 
 
 <div align="center">
