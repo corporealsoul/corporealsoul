@@ -73,24 +73,6 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 
 <br>
 
-- 🔭 I’m currently working on [Site Reliability Engineering](https://github.com/users/corporealsoul/projects/102)
-
-- 🌱 I’m currently learning **Python**
-
-- 👯 I’m looking to collaborate on [DevOps Engineering](https://github.com/users/corporealsoul/projects/102)
-
-- 👨‍💻 All of my projects are available at [https://github.com/users/corporealsoul/projects/102/views/1](https://github.com/users/corporealsoul/projects/102/views/1)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/corporealsoul/](https://www.linkedin.com/in/corporealsoul/)
-
-- 💬 Ask me about **DevOps / SRE**
-
-- 📫 How to reach me **uniqs.anup@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/corporealsoul/](https://www.linkedin.com/in/corporealsoul/)
-
-<br>
-
 <h3 align="left">DevOps / SRE - Competence ,</h3>
 
 * **LANGUAGE / SCRIPTING**	—	Python, Shell, C
