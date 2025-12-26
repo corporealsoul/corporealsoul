@@ -1,4 +1,4 @@
-![Header Ground](https://github.com/corporealsoul/corporealsoul/blob/master/synergists-header.png?raw=true) 
+![Header Ground](https://github.com/corporealsoul/corporealsoul/blob/master/corporealsoul-header.png?raw=true) 
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -149,4 +149,4 @@ src="https://img.shields.io/github/followers/corporealsoul?logo=github&style=for
 <br>
 <br>
 
-![Header Ground](https://github.com/corporealsoul/corporealsoul/blob/master/synergists-footer.png?raw=true) 
+![Header Ground](https://github.com/corporealsoul/corporealsoul/blob/master/corporealsoul-footer?raw=true) 
