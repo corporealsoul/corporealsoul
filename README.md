@@ -65,7 +65,7 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 
 
 
-<h3 align="center">GitHub Stats</h3>
+<h3 align="center">GitHub Stats,</h3>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/corporealsoul/">
@@ -91,7 +91,7 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 
 
 
-<h3>Connect with me!</h3>
+<h3>Connect with me,</h3>
 
 <div align="center">
   <br />
