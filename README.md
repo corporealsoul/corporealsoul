@@ -53,7 +53,6 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 
 
 
-
 <div align="center">
   <a href="https://www.linkedin.com/in/corporealsoul/">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=corporealsoul&bg_color=ffffff&hide_border=true&color=0D6EFD&line=0D6EFD&point=0D6EFD&area=true&hide_author=true" width="100%" alt="Activity Graph" />
@@ -80,7 +79,6 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 
 
 
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=corporealsoul&color=0D6EFD&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/corporealsoul?logo=github&style=for-the-badge&color=0D6EFD&labelColor=1c1917&label=FOLLOWERS" alt="Followers" />
@@ -88,7 +86,6 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 <br />
 <br />
 <br />
-
 
 
 
@@ -119,4 +116,4 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 
 
 
-![Footer Ground](https://github.com/corporealsoul/corporealsoul/blob/master/corporealsoul-footer.png?raw=true) 
+![Footer Ground](https://github.com/corporealsoul/corporealsoul/blob/master/corporealsoul-footer.png?raw=true)
