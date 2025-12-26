@@ -39,19 +39,17 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 
 
 
-Checked
 
 
+<h3 align="center">GitHub Stats</h3>
 
 <div align="center">
-
 <a href="https://www.linkedin.com/in/corporealsoul/">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corporealsoul&theme=nord_dark">
-      </a>
-
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corporealsoul&theme=nord_dark">
+</a>
 </div>
 
-
+checked
 
 
 
