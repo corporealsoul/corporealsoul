@@ -17,7 +17,7 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 <br>
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
+  <table border="0">
     <tr>
       <td align="center" style="padding: 10px;">
         <img src="https://komarev.com/ghpvc/?username=corporealsoul&color=0D6EFD&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -34,23 +34,21 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 <br>
 
 <div align="center">
-
-  <a href="https://github.com/corporealsoul" target="_blank">
-    <img src="https://img.shields.io/badge/github-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;">
-  </a>
-  <a href="https://www.linkedin.com/in/corporealsoul/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;">
-  </a>
-  <a href="https://twitter.com/corporealsoul" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%232E3440.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-bottom: 5px;">
-  </a>
-  <a href="https://www.youtube.com/channel/@synergists" target="_blank">
-  <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin-bottom: 5px;">
-  </a>
-  <a href="https://github.com/corporealsoul" target="_blank">
-    <img src=https://img.shields.io/badge/follow-%232E87FB.svg?&style=for-the-badge&logo=&logoColor=white alt=follow style="margin-bottom: 5px;" />
-  </a>
+  <a href="https://www.linkedin.com/in/corporealsoul/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0D6EFD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/channel/@synergists" target="_blank">
+    <img src="https://img.shields.io/badge/YOUTUBE-0D6EFD?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://twitter.com/corporealsoul" target="_blank">
+    <img src="https://img.shields.io/badge/TWITTER-0D6EFD?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://github.com/corporealsoul" target="_blank">
+    <img src="https://img.shields.io/badge/FOLLOW-0D6EFD?style=for-the-badge&logo=github&logoColor=white" alt="Follow GitHub" />
+  </a>
 </div>
+
+<br>
 
 <table>
   <tr>
