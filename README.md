@@ -52,6 +52,14 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 checked
 
 
+<a href="https://www.linkedin.com/in/corporealsoul/">
+        <img src="https://github-profile-trophy.vercel.app/?username=corporealsoul&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true" width="100%">
+      </a>
+
+
+
+
+
 
 
 
