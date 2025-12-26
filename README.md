@@ -50,6 +50,15 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 </div>
 
 <br>
+Checkpoint
+
+
+
+
+<div>
+<a href="https://github.com/corporealsoul" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corporealsoul&langs_count=10&title_color=0f172a&text_color=444e59&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Repository%20%Languages" alt="Top Languages" /></a>
+
+</div>
 
 
 
