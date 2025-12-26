@@ -96,7 +96,6 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 
 <h3>Connect with me!</h3>
 
-
 <div align="center">
   <br />
   <a href="https://corporealsoul.github.io/" target="_blank">
