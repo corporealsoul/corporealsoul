@@ -6,6 +6,10 @@
   </a>
 </div>
 
+
+
+
+
 <h3 align="left">Anup Kumar Mondal,</h3>
 
 Dynamic IT Professional with over 8+ years of hands-on experience designing, implementing, and optimizing innovative technology solutions. My expertise spans across system administration, network management, and security protocols, underscored by a proven track record of streamlining operations, enhancing efficiency, and driving business growth. I possess a unique ability to leverage emerging technologies to drive strategic initiatives, improve productivity, and consistently deliver exceptional results. 
@@ -14,7 +18,10 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 
 <br>
 
-<br>
+
+
+
+
 
 <div align="center">
   <table border="0">
@@ -33,6 +40,11 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 
 <br>
 
+
+
+
+
+
 <div align="center">
   <a href="https://www.linkedin.com/in/corporealsoul/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0D6EFD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -49,6 +61,11 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 </div>
 
 <br>
+
+
+
+
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/corporealsoul/">
@@ -73,6 +90,11 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 
 <br>
 
+
+
+
+
+
 <h3 align="left">Specialized Enterprise Stack</h3>
 
 <p align="left">
@@ -86,6 +108,12 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 </p>
 
 <br>
+
+
+
+
+
+
 <h3 align="left">Core Engineering Languages</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/C-0D6EFD?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -94,12 +122,25 @@ My strong analytical and problem-solving skills are complemented by an unquencha
   <img src="https://img.shields.io/badge/YAML-0D6EFD?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML" />
 </p>
 
+<br>
+
+
+
+
+
+
+<div align="center">
+  <a href="https://github.com/corporealsoul">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corporealsoul&langs_count=8&title_color=0D6EFD&text_color=2D3746&icon_color=0D6EFD&bg_color=ffffff&hide_border=true&locale=en&custom_title=Core+Technical+Ecosystem&layout=compact" alt="Anup's Technical Ecosystem" />
+  </a>
+</div>
 
 <br>
 
-<a href="https://github.com/corporealsoul" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corporealsoul&langs_count=10&title_color=0f172a&text_color=444e59&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Repository%20%Languages" alt="Top Languages" /></a>
 
-<br>
+
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=corporealsoul&show_icons=true&locale=en&layout=compact" alt="corporealsoul" /></p>
 
