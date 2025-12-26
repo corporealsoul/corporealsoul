@@ -1,9 +1,9 @@
 ![Header Ground](https://github.com/corporealsoul/corporealsoul/blob/master/corporealsoul-header.png?raw=true) 
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=2D3746&background=FFFFFF&center=true&vCenter=true&&lines=DevOps+Engineering;Site+Reliability+Engineering;CI/CD+Pipelines;Infrastructure+as+Code;Containerization;Cloud+Platforms;Automation+Tools;Monitoring+and+Observability;Security+Best+Practices;Networking+Concepts;Scripting+Languages;Python;Version+Control;Incident+Management" alt="Typing animation">
-  </a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=30&duration=3500&pause=1000&color=0D6EFD&background=FFFFFF&center=true&vCenter=true&width=700&lines=Leadership;Infrastructure;DevOps+Engineering;SRE+Engineering;Cloud+Computing;Containerization;Kubernetes;CI/CD+Pipelines;Infrastructure+as+Code+(IaC);Enterprise+Observability;Automated+Workflow+Optimization;Security+%26+DevSecOps;Linux+%26+Networking+Fundamentals" alt="Anup's Professional Roles">
+  </a>
 </div>
 
 <h3 align="left">Anup Kumar Mondal,</h3>
@@ -149,4 +149,4 @@ src="https://img.shields.io/github/followers/corporealsoul?logo=github&style=for
 <br>
 <br>
 
-![Header Ground](https://github.com/corporealsoul/corporealsoul/blob/master/corporealsoul-footer.png?raw=true) 
+![Header Ground](https://github.com/corporealsoul/corporealsoul/blob/master/corporealsoul-footer-reverse.png?raw=true) 
