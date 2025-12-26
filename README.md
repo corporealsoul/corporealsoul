@@ -91,18 +91,20 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 <h3>Get In Touch</h3>
 
 
-<a href="https://www.linkedin.com/in/corporealsoul/" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0D6EFD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://www.youtube.com/channel/@synergists" target="_blank">
-  <img src="https://img.shields.io/badge/YOUTUBE-0D6EFD?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
-<a href="https://twitter.com/corporealsoul" target="_blank">
-  <img src="https://img.shields.io/badge/TWITTER-0D6EFD?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-<a href="https://github.com/corporealsoul" target="_blank">
-  <img src="https://img.shields.io/badge/FOLLOW-0D6EFD?style=for-the-badge&logo=github&logoColor=white" alt="Follow GitHub" />
-</a>
+<div align="center">
+  <br />
+  <a href="https://corporealsoul.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/corporealsoul/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0D6EFD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/channel/@synergists" target="_blank">
+    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</div>
 
 </div>
 
