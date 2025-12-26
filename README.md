@@ -76,17 +76,12 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 <h3 align="left">🛠️ Specialized Enterprise Stack</h3>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/SAP_Ariba-0D6EFD?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Leadership-0D6EFD?style=for-the-badge&logo=google-cloud-run&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <br />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <br />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/Splunk-333333?style=for-the-badge&logo=splunk&logoColor=white" />
