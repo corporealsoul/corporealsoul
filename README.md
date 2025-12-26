@@ -14,27 +14,22 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 
 <br>
 
+<br>
+
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=corporealsoul&show_icons=true&hide_border=true&title_color=0D6EFD&icon_color=0D6EFD&text_color=2D3746&bg_color=ffffff" width="100%" alt="General Stats" />
+      <td align="center" style="padding: 10px;">
+        <img src="https://komarev.com/ghpvc/?username=corporealsoul&color=0D6EFD&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
       </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corporealsoul&layout=compact&hide_border=true&title_color=0D6EFD&text_color=2D3746&bg_color=ffffff" width="100%" alt="Top Languages" />
+      <td align="center" style="padding: 10px;">
+        <a href="https://github.com/corporealsoul?tab=followers">
+          <img src="https://img.shields.io/github/followers/corporealsoul?logo=github&style=for-the-badge&color=0D6EFD&labelColor=1c1917&label=FOLLOWERS" alt="Followers" />
+        </a>
       </td>
     </tr>
   </table>
 </div>
-
-<br>
-
-<div align="left"> <img width="200px" src="https://komarev.com/ghpvc/?username=corporealsoul&&style=for-the-badge" align="center" /> </div>
-
-<br>
-
-<a href="https://www.github.com/corporealsoul" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/corporealsoul?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <br>
 
