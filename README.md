@@ -1,111 +1,75 @@
-![Header](https://github.com/corporealsoul/corporealsoul/blob/master/synergists-header.png?raw=true)
+# Anup Kumar Mondal
+### DevOps & Site Reliability Engineer
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=500&color=2D3746&center=true&vCenter=true&lines=DevOps+Engineering;Site+Reliability+Engineering;Cloud+Platforms;Infrastructure+as+Code;CI%2FCD+Automation;Observability+%26+Monitoring;Platform+Engineering;AIOps+Exploration" alt="Typing SVG">
-  </a>
-</div>
+I design and operate **reliable, scalable infrastructure** for production systems.  
+With over **10 years of experience**, I focus on **automation, cloud platforms, and reliability engineering** to ensure systems remain observable, resilient, and easy to operate.
 
 ---
 
-## 👋 Hi, I’m **Anup Kumar Mondal**
-### Principal DevOps / Site Reliability Engineer
+## What I Work On
 
-I design, build, and operate **reliable, scalable production platforms** using SRE principles, cloud-native tooling, and automation-first practices.  
-With **8+ years of hands-on experience**, I specialize in turning complex systems into **predictable, observable, and resilient platforms**.
-
----
-
-## 🚀 Current Focus
-
-- Building **SRE-driven reliability platforms** (SLIs, SLOs, error budgets)
-- Cloud-native infrastructure on **AWS & GCP**
-- **CI/CD & GitOps** pipelines for safe, repeatable releases
-- **Observability platforms** using Prometheus, Grafana, Loki & ELK
-- Exploring **AI/AIOps** to reduce incident noise and MTTR
+- Designing **high-availability and fault-tolerant systems**
+- Building and maintaining **CI/CD platforms**
+- Managing **cloud and hybrid infrastructure**
+- Implementing **Infrastructure as Code**
+- Improving **system observability and incident response**
+- Enabling engineering teams through **platform automation**
 
 ---
 
-## 🧠 Impact Highlights
+## Core Competencies
 
-- Supported and operated **enterprise-scale production systems**
-- Improved deployment reliability through **standardized CI/CD pipelines**
-- Reduced incident MTTR using **monitoring, alerting, and runbooks**
-- Collaborated with **global teams** across time zones
-- Mentored engineers and helped align fragmented platforms
+### Reliability Engineering
+- Incident management and post-incident analysis  
+- SLIs, SLOs, and reliability measurements  
+- Capacity planning and performance tuning  
 
----
+### Cloud & Platforms
+- AWS, GCP, Azure  
+- Linux systems and networking fundamentals  
 
-## 🛠 Core Expertise
+### Containers & Orchestration
+- Docker  
+- Kubernetes and container orchestration patterns  
 
-### 🔹 SRE & Reliability
-- SLIs, SLOs, Error Budgets  
-- Incident Management & Postmortems  
-- Capacity Planning & Availability Engineering  
+### CI/CD & Automation
+- Jenkins, GitHub Actions, TeamCity  
+- Release pipelines and deployment strategies  
 
-### 🔹 Platform & Cloud
-- AWS · GCP · Azure · OpenStack  
+### Infrastructure as Code
+- Terraform  
+- Ansible  
 
-### 🔹 Containers & Orchestration
-- Docker · Kubernetes · Swarm · Rancher  
-
-### 🔹 CI/CD & GitOps
-- Jenkins · TeamCity · FluxCD · Harness  
-
-### 🔹 Infrastructure as Code
-- Terraform · Ansible · Chef  
-
-### 🔹 Observability
-- Prometheus · Grafana · Loki · ELK · Splunk  
+### Monitoring & Observability
+- Prometheus, Grafana  
+- Centralized logging and metrics systems  
 
 ---
 
-## 📌 Featured Work
+## Selected Work
 
-- 🔭 **Site Reliability Engineering Projects**  
-  https://github.com/users/corporealsoul/projects/102
-
-- 👨‍💻 **All Projects & Experiments**  
+- **Production Infrastructure & SRE Projects**  
   https://github.com/users/corporealsoul/projects
 
 ---
 
-## 🌐 Connect & Learn
+## Engineering Values
 
-<div align="center">
-
-<a href="https://github.com/corporealsoul">
-  <img src="https://img.shields.io/badge/GitHub-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/corporealsoul/">
-  <img src="https://img.shields.io/badge/LinkedIn-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://twitter.com/corporealsoul">
-  <img src="https://img.shields.io/badge/Twitter-%232E3440.svg?&style=for-the-badge&logo=twitter&logoColor=white">
-</a>
-<a href="https://www.youtube.com/@synergists">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-
-</div>
+- Automation over manual operations  
+- Reliability as a feature, not an afterthought  
+- Simple systems scale better than complex ones  
+- Clear ownership and documentation  
+- Continuous improvement through learning and iteration  
 
 ---
 
-## 📊 GitHub Activity
+## Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=corporealsoul&show_icons=true&theme=nord&hide_border=true">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=corporealsoul&bg_color=2e3440&hide_border=true&line=88c0d0&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff">
-</p>
+- GitHub: https://github.com/corporealsoul  
+- LinkedIn: https://www.linkedin.com/in/corporealsoul  
+- YouTube: https://www.youtube.com/@synergists  
 
 ---
 
-📫 **Reach me:** uniqs.anup@gmail.com  
-💬 **Ask me about:** DevOps, SRE, Cloud Platforms, CI/CD, Observability
-
----
-
-![Footer](https://github.com/corporealsoul/corporealsoul/blob/master/synergists-footer.png?raw=true)
+> _"Good infrastructure is invisible.  
+Great infrastructure is boring."_  
