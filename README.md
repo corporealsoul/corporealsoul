@@ -14,7 +14,18 @@ My strong analytical and problem-solving skills are complemented by an unquencha
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=corporealsoul&show_icons=true&locale=en" alt="corporealsoul" /></p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=corporealsoul&show_icons=true&hide_border=true&title_color=0D6EFD&icon_color=0D6EFD&text_color=2D3746&bg_color=ffffff" width="100%" alt="General Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corporealsoul&layout=compact&hide_border=true&title_color=0D6EFD&text_color=2D3746&bg_color=ffffff" width="100%" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
