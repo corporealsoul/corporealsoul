@@ -18,6 +18,9 @@
 A passionate DevOps & SRE Professional with 10+ years of diverse experience across Development, Cloud, Infrastructure, IoT, and Large-Scale Operations. Currently, I work as a Reporting Manager at HCLTech, deployed to SAP Ariba, where I lead a global team of 34 engineers accross the world and collaborate closely with clients and leadership to keep business-critical systems stable, scalable, and continuously improving.
 
 <br>
+<br>
+<br>
+
 
 
 
@@ -101,7 +104,7 @@ A passionate DevOps & SRE Professional with 10+ years of diverse experience acro
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://www.youtube.com/channel/@corporealsoul" target="_blank">
+  <a href="https://www.youtube.com/@corporealsoul" target="_blank">
     <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </div>
