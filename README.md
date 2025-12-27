@@ -15,9 +15,7 @@
 
 
 <h3 align="left">Anup Kumar Mondal,</h3>
-Dynamic IT Professional with over 8+ years of hands-on experience designing, implementing, and optimizing innovative technology solutions. My expertise spans across system administration, network management, and security protocols, underscored by a proven track record of streamlining operations, enhancing efficiency, and driving business growth. I possess a unique ability to leverage emerging technologies to drive strategic initiatives, improve productivity, and consistently deliver exceptional results. 
-
-My strong analytical and problem-solving skills are complemented by an unquenchable passion for continuous learning and professional development. I am committed to delivering high-quality solutions while ensuring exceptional client satisfaction.
+A passionate DevOps & SRE Professional with 10+ years of diverse experience across Development, Cloud, Infrastructure, IoT, and Large-Scale Operations. Currently, I work as a Reporting Manager at HCLTech, deployed to SAP Ariba, where I lead a global team of 34 engineers accross the world and collaborate closely with clients and leadership to keep business-critical systems stable, scalable, and continuously improving.
 
 <br>
 
@@ -103,7 +101,7 @@ My strong analytical and problem-solving skills are complemented by an unquencha
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://www.youtube.com/channel/@synergists" target="_blank">
+  <a href="https://www.youtube.com/channel/@corporealsoul" target="_blank">
     <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </div>
