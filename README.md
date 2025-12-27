@@ -52,7 +52,7 @@ A passionate DevOps & SRE Professional with 10+ years of diverse experience acro
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/corporealsoul/">
+  <a href="https://github.com/corporealsoul">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=corporealsoul&bg_color=ffffff&hide_border=true&color=0D6EFD&line=0D6EFD&point=0D6EFD&area=true&hide_author=true" width="100%" alt="Activity Graph" />
   </a>
 </div>
@@ -66,7 +66,7 @@ A passionate DevOps & SRE Professional with 10+ years of diverse experience acro
 <h3 align="center">GitHub Stats,</h3>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/corporealsoul/">
+<a href="https://github.com/corporealsoul">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corporealsoul&theme=nord_dark">
 </a>
 </div>
@@ -108,6 +108,8 @@ A passionate DevOps & SRE Professional with 10+ years of diverse experience acro
 
 </div>
 
+<br>
+<br>
 <br>
 
 
